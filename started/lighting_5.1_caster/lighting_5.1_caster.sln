@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lighting_5.1_caster", "lighting_5.1_caster\lighting_5.1_caster.vcxproj", "{79443DC0-9B87-404C-BCFF-1E7C601F4160}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79443DC0-9B87-404C-BCFF-1E7C601F4160}.Debug|x64.ActiveCfg = Debug|x64
+		{79443DC0-9B87-404C-BCFF-1E7C601F4160}.Debug|x64.Build.0 = Debug|x64
+		{79443DC0-9B87-404C-BCFF-1E7C601F4160}.Debug|x86.ActiveCfg = Debug|Win32
+		{79443DC0-9B87-404C-BCFF-1E7C601F4160}.Debug|x86.Build.0 = Debug|Win32
+		{79443DC0-9B87-404C-BCFF-1E7C601F4160}.Release|x64.ActiveCfg = Release|x64
+		{79443DC0-9B87-404C-BCFF-1E7C601F4160}.Release|x64.Build.0 = Release|x64
+		{79443DC0-9B87-404C-BCFF-1E7C601F4160}.Release|x86.ActiveCfg = Release|Win32
+		{79443DC0-9B87-404C-BCFF-1E7C601F4160}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C3D4AB9-B961-43DA-AFC6-64A85AA1CEAF}
+	EndGlobalSection
+EndGlobal
